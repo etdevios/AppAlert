@@ -11,24 +11,5 @@
       "title": "More information",
       "url": "https://www.createchsol.com"
     }
-  },
-
-    {
-    "id": 3,
-    "bundleId": "com.etdevios.AppAlertExample",
-    "title": "App Alert",
-    "text": "Warning: ...",
-    "confirmLabel": "OK",
-    "osVersions": [
-      "17.0.1",
-      "17.2"
-    ],
-    "appVersions": [
-      "1.0"
-    ],
-    "link": {
-      "title": "More information",
-      "url": "https://www.createchsol.com"
-    }
   }
 ]
